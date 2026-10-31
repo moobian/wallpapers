@@ -25,7 +25,7 @@ All wallpapers have 21:9 aspect ratios, and are 3440 x 1440px in size.
 ## Example Screenshots
 
 <p align="center">
-  <img src="./wallpapers/castle-cows-ducks-forest-mountains.jpg" style="width: 50%;">
+  <img src="./wallpapers/castle-cows-ducks-forest-mountains.jpg" style="width: 25%;">
 </p>
 
 
