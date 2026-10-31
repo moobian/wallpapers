@@ -4,7 +4,7 @@
 Welcome to my wallpapers repository
 </h3>
 
-This is a collection of over 40 vector-art style wallpapers I made using prompts in <a href="https://gemini.google.com/app">Gemini</a>, which were then upscaled using <a href="https://flathub.org/en/apps/org.upscayl.Upscayl">Upscayl</a>.
+This is an original collection of over 40 vector-art style JPEG wallpapers I made using prompts in <a href="https://gemini.google.com/app">Gemini</a>. Images were upscaled using <a href="https://flathub.org/en/apps/org.upscayl.Upscayl">Upscayl</a>, finally file sizes were optimised using <a ref="https://github.com/storytold/photocraft">Photocraft</a>.
 
 Themes include beaches, castles, cows, dinosaurs, ducks, ice-age animals, mountains. Some have scene variations of day/morning, and evening/night lighting.
 
@@ -27,8 +27,15 @@ All wallpapers have 21:9 aspect ratios, and are 3440 x 1440px in size.
 <p align="center">
   <img src="./wallpapers/castle-cows-ducks-forest-mountains.jpg" style="width: 25%;">
 </p>
-
-
+<p align="center">
+  <img src="./wallpapers/dinosaurs-forest-edge-river-evening-3440-1440.jpg" style="width: 25%;">
+</p>
+<p align="center">
+  <img src="./wallpapers/ice-age-rhinos-mammoths-tiger-evening-3440-1440" style="width: 25%;">
+</p>
+<p align="center">
+  <img src="./wallpapers/valley-night-moon-3440-1440.jpg" style="width: 25%;">
+</p>
 
 ## Usage
 
