@@ -45,7 +45,7 @@ Download and copy to your desktop backgrounds folder. Use your chosen desktop en
     <td width="25%"><img src="./wallpapers/coastline-castle-evening-3440-1440.jpg" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="./wallpapers/coastline-sunset-3440-1440.jp" width="100%"></td>
+    <td width="25%"><img src="./wallpapers/coastline-sunset-3440-1440.jpg" width="100%"></td>
     <td width="25%"><img src="./wallpapers/coastline-sunset-dinosaurs-3440-1440.jpg" width="100%"></td>
     <td width="25%"><img src="./wallpapers/dinosaurs-forest-edge-river-daytime-3440-1440.jpg" width="100%"></td>
     <td width="25%"><img src="./wallpapers/dinosaurs-forest-edge-river-evening-3440-1440.jpg" width="100%"></td>
