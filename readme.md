@@ -1,10 +1,10 @@
-# Desktop Vector Wallpapers 
+# Desktop Wallpapers 
 
 <h3 align="left">
 Welcome to my wallpapers repository
 </h3>
 
-An original vector-art style collection of wallpapers I generated using prompts in <a href="https://gemini.google.com/app">Gemini</a>. 
+An original collection of wallpapers I generated using prompts in <a href="https://gemini.google.com/app">Gemini</a>. 
 
 Images upscaled using <a href="https://flathub.org/en/apps/org.upscayl.Upscayl">Upscayl</a>.
 File sizes optimised using <a href="https://github.com/storytold/photocraft">Photocraft</a>.
